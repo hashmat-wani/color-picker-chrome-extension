@@ -1,0 +1,18 @@
+body {
+  background: #f1f5f9;
+}
+
+.wrapper {
+  width: 300px;
+  text-align: center;
+}
+
+.pickColorBtn {
+  width: 200px;
+  outline: none;
+  border: none;
+  border-radius: 2px;
+  padding: 5px;
+  background-color: #facc15;
+  cursor: pointer;
+}
