@@ -16,3 +16,19 @@ body {
   background-color: #facc15;
   cursor: pointer;
 }
+
+.colorGrid {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 2px;
+}
+
+.selectedColor {
+  display: flex;
+  margin-top: 20px;
+  align-items: center;
+  /* border: 1px solid red; */
+  justify-content: center;
+  gap: 10px;
+}
